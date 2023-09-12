@@ -8,3 +8,9 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 
   2) https://www.acmicpc.net/problem/10811 (바구니 뒤집기), 
   https://www.acmicpc.net/problem/10809 (알파벳 찾기)
+
+* week 2 (0912)
+
+  1) https://www.acmicpc.net/problem/1748 수 이어쓰기, https://www.acmicpc.net/problem/1244 스위치 켜고 끄기
+  2) https://www.acmicpc.net/problem/1546  평균, https://www.acmicpc.net/problem/10798 세로읽기 
+
