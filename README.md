@@ -11,6 +11,11 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 
 * week 2 (0912)
 
-  1) https://www.acmicpc.net/problem/1748 수 이어쓰기, https://www.acmicpc.net/problem/1244 스위치 켜고 끄기
-  2) https://www.acmicpc.net/problem/1546  평균, https://www.acmicpc.net/problem/10798 세로읽기 
+  1) https://www.acmicpc.net/problem/1748 수 이어쓰기,
+      https://www.acmicpc.net/problem/1244 스위치 켜고 끄기
+  3) https://www.acmicpc.net/problem/1546  평균,
+     https://www.acmicpc.net/problem/10798 세로읽기 
 
+* week 3 (0919)
+  1) https://www.acmicpc.net/problem/2753 윤년, https://www.acmicpc.net/problem/2884 알람시계
+  2) https://www.acmicpc.net/problem/5073 삼각형과 세 변, https://www.acmicpc.net/problem/2579 계단오르기
